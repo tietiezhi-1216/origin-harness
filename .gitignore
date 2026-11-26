@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+xcuserdata/
+DerivedData/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+*.xcodeproj
+
+# Local env / secrets
+.env
+.env.*
+*.local
